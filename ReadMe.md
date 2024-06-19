@@ -9,6 +9,7 @@ function teste(){
     var x = 12345
     console.log(x)
 }
+
 ```
 
     ***Foram implementados os seguintes itens***
