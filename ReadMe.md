@@ -4,14 +4,6 @@
 - [x] Implementar y 
 - [ ] Refatorar codigo 
 
-```
-function teste(){
-    var x = 12345
-    console.log(x)
-}
-
-´´´
-
     ***Foram implementados os seguintes itens***
 
     Banco de Dados
@@ -19,3 +11,11 @@ function teste(){
 
     Refatoração
     > O Codigo foi refatorado até a breanch 3 
+
+```
+function teste(){
+    var x = 12345
+    console.log(x)
+}
+
+```
